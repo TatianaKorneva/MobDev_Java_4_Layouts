@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Кликер</string>
+    <string name="click_me">Нажми на меня</string>
+    <string name="btn2">Нажми, чтобы уменьшить на 1</string>
+    <string name="btn3">Сбросить</string>
+    <string name="s1">раза</string>
+    <string name="s2">раз</string>
+    <string name="b">Кнопка нажата</string>
+    <string name="s3"> раз</string>
+    <string name="special">Особое число</string>
+    <string name="n">Кликов: 0</string>
+
+</resources>
+

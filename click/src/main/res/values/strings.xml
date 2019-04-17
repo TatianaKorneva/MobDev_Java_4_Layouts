@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="click_me">Click me</string>
+    <string name="btn2">Click to zoom out by 1</string>
+    <string name="btn3">Reset</string>
+    <string name="s1">raza</string>
+    <string name="s2">raz</string>
+    <string name="b">Button pressed</string>
+    <string name="s3"> raz</string>
+    <string name="special">Special number</string>
+    <string name="n">Clicks: 0</string>
+</resources>
+
